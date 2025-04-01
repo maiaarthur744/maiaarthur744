@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hi there, I'm Arthur
+### I'm a Computer Science student at Univali
+### I'm currently building web applications using JavaScript, TypeScript, React, and Node.js,
+### Here is some other stuff i like: 🎮 Video Games, 🤘 Music and 🤓 Computer Graphics
+### Feel free to reach me, here is my contact:
+- Email: [maiaarthur744@gmail.com](maiaarthur744@gmail.com)
+- LinkedIn: [linkedin.com/in/maiaarthur](www.linkedin.com/in/maiaarthur)
+
 
 <!--
 **maiaarthur744/maiaarthur744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
